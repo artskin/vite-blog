@@ -1,0 +1,14 @@
+{
+  "name": "vitepress-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev":"npx vitepress",
+    "build":"npx vitepress build",
+    "deploy": "bash deploy.sh"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vitepress": "^0.1.1"
+  }
+}
