@@ -1,0 +1,1 @@
+.debug{position:fixed;cursor:pointer;top:0;right:0;width:40px;height:25px;padding:5px;overflow:hidden;color:#eee;margin-top:-15px;transition:all .15s ease;background-color:rgba(0,0,0,.85)}.debug.open{width:500px;height:100%;margin-top:0;padding:5px 20px;overflow:scroll}.debug pre{font-family:Hack,monospace;font-size:13px}
